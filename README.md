@@ -9,7 +9,6 @@ group3_project/
 ├── main.py           # Main application file
 ├── search.py         # Search functionality demonstration
 ├── README.md         # This file
-├── CODE_EXPLANATION.md # Detailed code documentation
 └── data/
     ├── accounts.txt  # User account storage (auto-created)
     └── warehouse3.txt # Product inventory
